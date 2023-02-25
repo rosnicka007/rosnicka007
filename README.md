@@ -4,6 +4,26 @@ Hi, my name is Dagmar and I´m preparing for job transition to the position of d
 
 # My project portfolio
 
+## [COVID data](https://github.com/rosnicka007/COVID-data) [02-2023]
+
+
+#### SQL, Tableu
+
+Workflow:
+
+* Loading data in CSV file
+* Checking and preparation data in Excel
+* Loading prepared data to SQLite Studio
+* Checking, exploration and cleaning data
+* Solving null values
+* Preparing SQL querries
+* Uploading data to Tableu 
+* [Visualisation in Tableu](https://public.tableau.com/app/profile/dagmar.vrskova/viz/Covid_data_AA/Dashboard1)
+
+
+
+
+
 ## [Anesthesiology calculator for small mammals](https://github.com/rosnicka007/Anesthesiology-calculator-for-small-mammals) [02-2023]
 
 
