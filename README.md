@@ -22,7 +22,7 @@ Workflow:
 
 
 
-## [Online currency calculator](https://github.com/rosnicka007/Pamatne_stromy) [01-2023]
+## [Online currency calculator](https://github.com/rosnicka007/Online-currency-calculator) [01-2023]
 
 
 #### Python, Tkinter, API
