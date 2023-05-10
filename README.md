@@ -1,7 +1,3 @@
-
-
-Hi, my name is Dagmar and I´m preparing for job transition to the position of data analyst.
-
 # My project portfolio
 
 ## [COVID data](https://github.com/rosnicka007/COVID-data) [02-2023]
