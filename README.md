@@ -1,6 +1,6 @@
 # My project portfolio
 
-## [COVID data](https://github.com/rosnicka007/COVID-data) [02-2023]
+## [COVID data](https://github.com/rosnicka007/COVID-data) [04-2023]
 
 
 #### SQL, Tableu
