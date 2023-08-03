@@ -1,6 +1,6 @@
 # My project portfolio
 
-## [Shark Attacks](https://github.com/rosnicka007/Shark_attacks) [08/2023 - under construction]
+## [Shark Attacks](https://github.com/rosnicka007/Shark_attacks) [07/2023 - under construction]
 
 #### Python - NumPy, Pandas, MatPlotLib, Seaborn
 
