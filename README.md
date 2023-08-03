@@ -1,5 +1,20 @@
 # My project portfolio
 
+## [Shark Attacks] [08/2023 - under construction]
+
+#### Python - NumPy, Pandas, MatPlotLib, Seaborn
+
+Workflow:
+
+* Importing Python libraries
+* Loading the data from csv file
+* Checking the data
+* Removing of selected empty cells
+* Filling missing values, selecting and renaming the columns
+* Preparing data for visualisation (somewhere with regular expressions)
+* Visualisation 
+
+
 ## [COVID data](https://github.com/rosnicka007/COVID-data) [04-2023]
 
 
