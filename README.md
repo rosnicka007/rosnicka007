@@ -3,6 +3,7 @@
 ## [Shark Attacks](https://github.com/rosnicka007/Shark_attacks) [07/2023 - under construction]
 
 #### Python - NumPy, Pandas, MatPlotLib, Seaborn
+#### Regular expressions
 
 Workflow:
 
@@ -11,7 +12,7 @@ Workflow:
 * Checking the data
 * Removing of selected empty cells
 * Filling missing values, selecting and renaming the columns
-* Preparing data for visualisation (somewhere with regular expressions)
+* Preparing data for visualisation 
 * Visualisation 
 
 
