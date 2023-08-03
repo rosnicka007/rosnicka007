@@ -2,8 +2,7 @@
 
 ## [Shark Attacks](https://github.com/rosnicka007/Shark_attacks) [07/2023 - under construction]
 
-#### Python - NumPy, Pandas, MatPlotLib, Seaborn
-#### Regular expressions
+#### Python - NumPy, Pandas, MatPlotLib, Seaborn; Regular expressions
 
 Workflow:
 
