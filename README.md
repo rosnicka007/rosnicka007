@@ -1,13 +1,13 @@
 # My project portfolio
 
-## [Shark Attacks] [08/2023 - under construction]
+## [Shark Attacks] (https://github.com/rosnicka007/Shark_attacks) [08/2023 - under construction]
 
 #### Python - NumPy, Pandas, MatPlotLib, Seaborn
 
 Workflow:
 
 * Importing Python libraries
-* Loading the data from csv file
+* Loading the data from csv file (Kaggle dataset)
 * Checking the data
 * Removing of selected empty cells
 * Filling missing values, selecting and renaming the columns
