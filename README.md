@@ -1,5 +1,20 @@
 # My project portfolio
 
+## [Machine learning - Binary brest cancer classification using neural networks] [07/2023]
+
+#### Python - TensorFlow, Scikit-learn, Pandas, Numpy, MatPlotLib
+
+Workflow:
+
+* Importing Python libraries
+* Loading the data from csv file
+* Data preparation
+* Model definition
+* Model compilation
+* Model training
+* Model evaluation
+
+
 ## [Shark Attacks](https://github.com/rosnicka007/Shark_attacks) [07/2023 - under construction]
 
 #### Python - NumPy, Pandas, MatPlotLib, Seaborn; Regular expressions
@@ -33,10 +48,7 @@ Workflow:
 
 
 
-
-
 ## [Anesthesiology calculator for small mammals](https://github.com/rosnicka007/Anesthesiology-calculator-for-small-mammals) [02-2023]
-
 
 #### Python, Tkinter
 
