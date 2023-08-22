@@ -1,6 +1,6 @@
 # My project portfolio
 
-## [Machine learning - Binary brest cancer classification using neural networks][07/2023]
+## [Machine learning][07/2023]
 
 #### Python - TensorFlow, Scikit-learn, Pandas, Numpy, MatPlotLib
 
