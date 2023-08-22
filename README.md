@@ -1,6 +1,6 @@
 # My project portfolio
 
-## [Machine learning - Binary brest cancer classification using neural networks](https://github.com/rosnicka007/Machine learning_brest cancer) [07/2023]
+## [Machine learning - Binary brest cancer classification using neural networks](https://github.com/rosnicka007/ML_Brest_cancer) [07/2023]
 
 #### Python - TensorFlow, Scikit-learn, Pandas, Numpy, MatPlotLib
 
