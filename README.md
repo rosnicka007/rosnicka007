@@ -29,7 +29,16 @@ Workflow:
 * Removing of selected empty cells
 * Filling missing values, selecting and renaming the columns
 * Preparing data for visualisation 
-* Visualisation 
+* Visualisation
+
+## [Car borrowing microservice](https://github.com/rosnicka007/Car_microservice) [05 - 07/2023]
+
+#### Java - Java core, Maven, Spring Boot, Spring Data, Hibernate, Rest, OpenAPI, Junit
+
+Workflow:
+
+* Preparing data layer, DTO layer, Service layer, DTO layer: for (un)borrowed cars, for borrowed cars and for users
+* Preparing integration tests 
 
 
 ## [COVID data](https://github.com/rosnicka007/COVID-data) [04-2023]
