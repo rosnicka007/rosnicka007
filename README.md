@@ -88,6 +88,11 @@ Workflow:
 
 Workflow:
 * Coding of classes, methods and objects
+
+<img src="https://github.com/rosnicka007/Snake/blob/main/snake_game_img.jpg" alt="Snake_game_image" width="300" height="200">
+
+
+
   
 
 ## [Memorial trees in Brno / Památné stromy Brna](https://github.com/rosnicka007/Pamatne_stromy) [12-2022]
