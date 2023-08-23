@@ -82,6 +82,14 @@ Workflow:
 * Connect with API
 
 
+## [Snake game](https://github.com/rosnicka007/Snake) [01/2023]
+
+#### Python - OOP, Pyglet, Random
+
+Workflow:
+* Coding of classes, methods and objects
+  
+
 ## [Memorial trees in Brno / Památné stromy Brna](https://github.com/rosnicka007/Pamatne_stromy) [12-2022]
 
 
