@@ -76,7 +76,9 @@ Workflow:
 * option menu for choosing anesthetic preparation
 * counting the dose of individual anesthetics in milliliters
 
-<img src="https://github.com/rosnicka007/Anesthesiology-calculator-for-small-mammals/blob/main/calculator.jpg" width="600" >
+<a href= "https://github.com/rosnicka007/Anesthesiology-calculator-for-small-mammals" >
+<img src="https://github.com/rosnicka007/Anesthesiology-calculator-for-small-mammals/blob/main/calculator.jpg" alt="calculator_in_action" width="600" >
+</a>
 
 
 
@@ -103,7 +105,9 @@ Workflow:
 Workflow:
 * Coding of classes, methods and objects
 
+<a href= "https://github.com/rosnicka007/Snake">
 <img src="https://github.com/rosnicka007/Snake/blob/main/snake_game_img.jpg" alt="Snake_game_image" width="600" >
+</a>
 
 
 
