@@ -19,7 +19,9 @@ Workflow:
 
 ## [Shark Attacks](https://github.com/rosnicka007/Shark_attacks) [07/2023 - under construction]
 
-<img src = "https://media.giphy.com/media/L2SfacF4NiZV9kMUUC/giphy.gif"  width="600" >
+<a href="https://github.com/rosnicka007/Shark_attacks">
+  <img src="https://media.giphy.com/media/L2SfacF4NiZV9kMUUC/giphy.gif" alt="Sharks_gif" width="600" >
+</a>
 
 #### Python - NumPy, Pandas, MatPlotLib, Seaborn; Regular expressions
 
