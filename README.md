@@ -1,10 +1,8 @@
 # My project portfolio
 
-## [Binary brest cancer classification using neural networks](https://github.com/rosnicka007/Machine_learning_Brest_cancer) [07/2023]
+### [Binary brest cancer classification using neural networks](https://github.com/rosnicka007/Machine_learning_Brest_cancer) [07/2023]
 
-## Machine learning
-
-#### Python - TensorFlow, Scikit-learn, Pandas, Numpy, MatPlotLib
+### Machine learning: Python - TensorFlow, Scikit-learn, Pandas, Numpy, MatPlotLib
 
 Workflow:
 
@@ -16,14 +14,16 @@ Workflow:
 * Model training
 * Model evaluation
 
+##
 
-## [Shark Attacks](https://github.com/rosnicka007/Shark_attacks) [07/2023 - under construction]
+
+### [Shark Attacks](https://github.com/rosnicka007/Shark_attacks) [07/2023 - under construction]
 
 <a href="https://github.com/rosnicka007/Shark_attacks">
   <img src="https://media.giphy.com/media/L2SfacF4NiZV9kMUUC/giphy.gif" alt="Sharks_gif" width="600" >
 </a>
 
-#### Python - NumPy, Pandas, MatPlotLib, Seaborn; Regular expressions
+### Python - NumPy, Pandas, MatPlotLib, Seaborn; Regular expressions
 
 Workflow:
 
@@ -35,20 +35,23 @@ Workflow:
 * Preparing data for visualisation 
 * Visualisation
 
-## [Car borrowing microservice](https://github.com/rosnicka007/Car_microservice) [05 - 07/2023]
+##
 
-#### Java - Java core, Maven, Spring Boot, Spring Data, Hibernate, Rest, OpenAPI, Junit
+### [Car borrowing microservice](https://github.com/rosnicka007/Car_microservice) [05 - 07/2023]
+
+### Java - Java core, Maven, Spring Boot, Spring Data, Hibernate, Rest, OpenAPI, Junit
 
 Workflow:
 
 * Preparing data layer, DTO layer, Service layer, DTO layer: for (un)borrowed cars, for borrowed cars and for users
 * Preparing integration tests 
 
+##
 
-## [COVID data](https://github.com/rosnicka007/COVID-data) [04-2023]
+### [COVID data](https://github.com/rosnicka007/COVID-data) [04-2023]
 
 
-#### SQL, Tableu
+### SQL, Tableu
 
 Workflow:
 
@@ -61,11 +64,11 @@ Workflow:
 * Uploading data to Tableu 
 * [Visualisation in Tableu](https://public.tableau.com/app/profile/dagmar.vrskova/viz/Covid_data_AA/Dashboard1)
 
+##
 
+### [Anesthesiology calculator for small mammals](https://github.com/rosnicka007/Anesthesiology-calculator-for-small-mammals) [02-2023]
 
-## [Anesthesiology calculator for small mammals](https://github.com/rosnicka007/Anesthesiology-calculator-for-small-mammals) [02-2023]
-
-#### Python, Tkinter
+### Python, Tkinter
 
 My first major project - an anesthesia calculator for small mammals, based on the use of Python and Tkinter and has practical use in every veterinary practice. 
 
@@ -80,13 +83,13 @@ Workflow:
 <img src="https://github.com/rosnicka007/Anesthesiology-calculator-for-small-mammals/blob/main/calculator.jpg" alt="calculator_in_action" width="600" >
 </a>
 
+##
 
 
+### [Online currency calculator](https://github.com/rosnicka007/Online-currency-calculator) [01-2023]
 
-## [Online currency calculator](https://github.com/rosnicka007/Online-currency-calculator) [01-2023]
 
-
-#### Python, Tkinter, API
+### Python, Tkinter, API
 
 Workflow:
 
@@ -97,10 +100,11 @@ Workflow:
   - field for current date
 * Connect with API
 
+##
 
-## [Snake game](https://github.com/rosnicka007/Snake) [01/2023]
+### [Snake game](https://github.com/rosnicka007/Snake) [01/2023]
 
-#### Python - OOP, Pyglet, Random
+### Python - OOP, Pyglet, Random
 
 Workflow:
 * Coding of classes, methods and objects
@@ -110,13 +114,13 @@ Workflow:
 </a>
 
 
-
+##
   
 
-## [Memorial trees in Brno / Památné stromy Brna](https://github.com/rosnicka007/Pamatne_stromy) [12-2022]
+### [Memorial trees in Brno / Památné stromy Brna](https://github.com/rosnicka007/Pamatne_stromy) [12-2022]
 
 
-#### Power BI
+### Power BI
 
 Workflow - everything in Power BI:
 
@@ -125,6 +129,8 @@ Workflow - everything in Power BI:
 * Solving many problems with missing or null values
 * Joining one table with Czech names of the trees 
 * Visualisation
+
+##
 
 
 
